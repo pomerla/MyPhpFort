@@ -61,10 +61,10 @@ composer create-project pomerla/comingsoon
 <a href="https://github.com/pomerla/comingsoon/releases">Release stable </a>
 
 ## Status
-[![Latest Stable Version](https://poser.pugx.org/pomerla/comingsoon/v/stable)](https://packagist.org/packages/pomerla/comingsoon)
-[![Total Downloads](https://poser.pugx.org/pomerla/comingsoon/downloads)](https://packagist.org/packages/pomerla/comingsoon)
-[![Latest Unstable Version](https://poser.pugx.org/pomerla/comingsoon/v/unstable)](https://packagist.org/packages/pomerla/comingsoon)
-[![License](https://poser.pugx.org/pomerla/comingsoon/license)](https://packagist.org/packages/pomerla/comingsoon)
+[![Latest Stable Version](https://poser.pugx.org/myphpfort/framework/v/stable)](https://packagist.org/packages/myphpfort/framework)
+[![Total Downloads](https://poser.pugx.org/myphpfort/framework/downloads)](https://packagist.org/packages/myphpfort/framework)
+[![Latest Unstable Version](https://poser.pugx.org/myphpfort/framework/v/unstable)](https://packagist.org/packages/myphpfort/framework)
+[![License](https://poser.pugx.org/myphpfort/framework/license)](https://packagist.org/packages/myphpfort/framework)
 
 ## Creators
 <ul>
